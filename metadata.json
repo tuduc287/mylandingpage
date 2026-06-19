@@ -1,0 +1,6 @@
+{
+  "name": "Bảng Giá & Thu Thập Lead Đầu Tư",
+  "description": "Landing page phân tích chứng khoán đa dạng lấy cảm hứng từ FireAnt.vn tích hợp AI tư vấn danh mục và form đăng ký nhận tín hiệu đầu tư để thu thập tin hàng loạt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
